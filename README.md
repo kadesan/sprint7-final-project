@@ -199,4 +199,12 @@ Para reproducir el análisis correctamente:
 
 El proyecto permitió identificar problemas de calidad de datos, describir las distribuciones de consumo y construir segmentos de clientes por edad y nivel de uso.
 
-La detección de valores
+La detección de valores atípicos permitió identificar usuarios con consumos extremos que requieren revisión, sin asumir que representan errores.
+
+Los resultados proporcionan una base inicial para investigar ofertas diferenciadas y mejorar la experiencia del cliente. Como trabajo adicional, se recomienda profundizar en la relación entre consumo, plan contratado, ingresos y cancelaciones para priorizar las estrategias comerciales con mayor impacto.
+
+10. Autoría
+
+Proyecto desarrollado como parte del Sprint 7 de formación en análisis de datos. Estudiante Santiago Hoyos Yacup
+
+Tecnologías utilizadas: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook y GitHub.
